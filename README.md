@@ -13,14 +13,14 @@ This repo contains everything you need to know about capstones - due dates, expe
 
 
 ## DEADLINES
-* **Saturday 11/21/2020:** Initial Proposal Due (Use the Google form found on the [initial proposal page](./02_initial-proposal.md)) - please don't wait until the actual due date for this.  Get it in this weekend before someone else takes your topic.
-* **Monday 11/23/2020:** Project ERD due - again get this to me ASAP so nobody needs to wait
-* **Monday 11/30/2020:** User stories, tickets, wireframes **VIDEO** due
+* **Week 20 - Saturday:** Initial Proposal Due (Use the Google form found on the [initial proposal page](./02_initial-proposal.md)) - please don't wait until the actual due date for this.  Get it in this weekend before someone else takes your topic.
+* **Week 21 - Monday:** Project ERD due - again get this to me ASAP so nobody needs to wait
+* **Week 22 - Monday:** User stories, tickets, wireframes **VIDEO** due
   - [Loom](https://www.loom.com/)
-* **Saturday 12/5/2020:** 1-on-1s with mentor to determine MVP
-* **Monday 12/07/2020:** Coding begins - assuming your mentor is satisfied with your planning
-* **Saturday 12/19/2020:** MVP is due - EVERY person will do a soft demo
-* **Tuesday 1/5/2021:** Capstone Demos
+* **Week 22 - Saturday:** 1-on-1s with mentor to determine MVP
+* **Week 23 - Monday:** Coding begins - assuming your mentor is satisfied with your planning
+* **Week 24 - Saturday:** MVP is due - EVERY person will do a soft demo
+* **TBD:** Capstone Demos
 
 ## CAPSTONE REQUIREMENTS
 ##### Technical Requirements:
@@ -37,7 +37,7 @@ This repo contains everything you need to know about capstones - due dates, expe
 * If you have not fleshed out your planning enough, your capstone mentor will not let you code.
 
 ##### Documentation:
-* A completed README with details and deployment link. [Remember our planning from the beginning of the cohort.](https://github.com/nss-evening-cohort-13/team-planning#readme-is-completed-with)
+* A completed README with details and deployment link. [Remember our planning from the beginning of the cohort.](https://github.com/nss-nightclass-projects/team-planning)
 
 ##### Project NoNos:
 * Projects shouldn't be something for your day job
@@ -52,7 +52,7 @@ This repo contains everything you need to know about capstones - due dates, expe
 ## Mentor 1on1s
 During capstone time you will have 3 meetings with your mentor. These meetings are **NOT** a time for you to talk about broken code.  They are a time to reflect on your progress and set easily attainable goals to make sure you will be finished with your project by the MVP deadline.  Below is an outline of what you should have done before each check in:
 
-### Check in #1: Saturday 12/05/2020
+### Check in #1 - Week 22, Saturday
 * This is your first check in
 * Purpose: to outline and agree on your capstone MVP.
 * Preparation for this meeting:
@@ -65,9 +65,9 @@ During capstone time you will have 3 meetings with your mentor. These meetings a
 > 1. An ordered list of your stretch goals
 > 1. A set of goals to complete by your next meeting
 
-### Check in #2: Saturday 12/12/2020
+### Check in #2 - Week 23, Saturday
 * This is your second check in
-* Purpose: To make sure you are still on track for getting to MVP by 12/19/2020
+* Purpose: To make sure you are still on track for getting to MVP by Week 24 Saturday
 * Preparation for this meeting:
 > 1. Complete the coding goals from your first check in
 > 1. Be prepared to talk about any difficulties you see coming up.
@@ -75,7 +75,7 @@ During capstone time you will have 3 meetings with your mentor. These meetings a
 > 1. A good sense of if you are on track or need to work hard this week
 > 1. A set of goals to complete by your next meeting.
 
-### Check in #3: Tuesday 12/15/2020
+### Check in #3 - Week 24, Tuesday
 * This is your final check in
 * Purpose: To determine what (if any) remaining code you need to write to be at MVP for Saturday.
 * Preparation for this meeting:
