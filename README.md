@@ -38,6 +38,7 @@ This repo contains everything you need to know about capstones - due dates, expe
 
 ##### Documentation:
 * A completed README with details and deployment link. [Remember our planning from the beginning of the cohort.](https://github.com/nss-nightclass-projects/team-planning)
+* Also include the link to your deployed Personal Bio Site on the README.
 
 ##### Project NoNos:
 * Projects shouldn't be something for your day job
