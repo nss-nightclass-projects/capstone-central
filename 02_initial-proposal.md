@@ -1,6 +1,6 @@
 # Initial Proposal
 
-:star2::star2::star2::star2:[SUBMIT PROPOSAL HERE](https://forms.gle/oT9fQ9jYQTAunRf87):star2::star2::star2::star2:
+:star2::star2::star2::star2:[SUBMIT PROPOSAL HERE](#):star2::star2::star2::star2:
 
 
 #### Your initial proposal is needed to
